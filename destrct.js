@@ -1,3 +1,4 @@
+console.log("Destructuring")
 const users = {name:"Rahul",age:21,city:"Delhi"}
 const {name,age,city} = users
 console.log(name);
